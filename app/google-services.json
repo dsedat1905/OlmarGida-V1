@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201039802197",
+    "project_id": "olmargida-70203",
+    "storage_bucket": "olmargida-70203.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201039802197:android:8e0587f46f6840174609dc",
+        "android_client_info": {
+          "package_name": "com.demirappcomtr.olmargidacomtr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0VMvIX0j3sdc9yS58DyjmS09L8StnLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
